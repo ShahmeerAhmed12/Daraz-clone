@@ -1,0 +1,386 @@
+ /* navbar css start */
+
+ .bg-aa {
+     background-color: orangered;
+ }
+
+ .bg-aaa {
+     background-color: orangered;
+ }
+
+ .nv {
+     list-style: none;
+     display: flex;
+     margin-left: -55px;
+     margin-top: -43px;
+     margin-bottom: -30px;
+ }
+
+ .nv :hover{
+    color: rgba(54, 54, 54, 0.356);
+    cursor: pointer;
+    
+ }
+
+ .nvv {
+     margin-left: 30px;
+     font-size: small;
+     color: white;
+     margin-bottom: -10px;
+ }
+
+ .logo {
+     width: 100px;
+
+ }
+
+ .inp {
+     width: 650px;
+     margin-right: 300px;
+     align-items: center;
+
+ }
+
+ .form-control {
+     border-top-left-radius: 13px;
+     border-bottom-left-radius: 13px;
+ }
+
+ .bt {
+     height: 38px;
+     width: 70px;
+     color: orangered;
+     border-top-right-radius: 13px;
+     border-bottom-right-radius: 13px;
+ }
+
+ .bbb {
+     padding: 5px 5px;
+     background-color: rgba(255, 68, 0, 0.274);
+     border-radius: 10px;
+     width: 50px;
+ }
+
+ .c {
+     list-style: none;
+     display: flex;
+     color: white;
+     margin-right: -400px;
+ }
+
+ .c :hover{
+    cursor: pointer;
+ }
+
+ .pp{
+    justify-content: center;
+    display: flex;
+    margin-bottom: 50px;
+ }
+
+ .cc {
+     font-size: small;
+     color: white;
+     margin-left: -10px;
+     margin-right: 40px;
+     margin-top: 15px;
+     font-size: medium;
+ }
+
+ .m {
+     margin-left: 10px;
+     font-size: smaller;
+     margin-bottom: 15px;
+ }
+
+ .dd {
+     margin-left: -50px;
+ }
+
+ .dropdown-toggle {
+     background-color: orangered;
+     color: white;
+     font-size: medium;
+     margin-top: 5px;
+ }
+
+ .h4 {
+     color: orangered;
+     text-align: center;
+
+
+ }
+
+ .popover-container {
+     position: relative;
+     display: flex;
+     font-size: smaller;
+     margin-top: -15px;
+ }
+
+ .popover-content {
+     display: none;
+     position: absolute;
+     background-color: #fff;
+     z-index: 4;
+     right: 10px;
+     top: 40px;
+
+
+ }
+
+ .popover-container:hover .popover-content {
+     display: flex;
+ }
+
+ /* navbar css end */
+
+
+
+ /* main css start */
+
+
+ .k {
+     margin-top: 30px;
+     width: 690px;
+     margin-left: -150px;
+ }
+
+ .x {
+     background-color: antiquewhite;
+ }
+
+ .q {
+     list-style: none;
+     padding-left: 130px;
+     margin-top: 10px;
+     margin-left: 190px;
+     margin-right: 190px;
+     padding: 0px 20px 0px 40px;
+     border-radius: 15px;
+ }
+
+ .q :hover{
+    background-color: rgba(170, 169, 168, 0.308);
+    color: orangered;
+    cursor: pointer;
+    border-radius: 5px;
+
+ }
+
+.pink{
+    background-color: rgb(233, 214, 207);
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.line{
+    color: rgba(58, 55, 55, 0.212);
+}
+
+.as{
+    width: 80px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    
+}
+
+.o{
+
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgba(224, 210, 210, 0.486);
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.para{
+    text-align: center;
+}
+
+.se :hover{
+    color: orangered;
+    cursor: pointer;
+}
+
+
+
+body{
+    background-color: rgb(255, 249, 249);
+}
+ 
+.r{
+    color: black;
+}
+
+.ccard{
+
+    display:flex ;
+    background-color: #fff;
+    height: 320px;
+    width: 1120px;
+    margin-top: -15px;
+
+    
+
+}
+
+.ncv{
+    margin-bottom: -15px;
+    background-color: #fff;
+    width: 1120px;
+
+}
+
+  
+.card{
+    height: 200px;
+    border: 10px solid white;
+    margin: 0px 5px;
+
+}
+
+.card :hover{
+    filter: drop-shadow(1px 1px 2px rgb(116, 113, 113));
+}
+
+.ch{
+    margin-top: 25px;
+    margin-bottom: 25px ;
+    color: rgba(7, 7, 7, 0.788);
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.Ending{
+    list-style: none;
+    display: flex;
+    margin-left: -500px;
+    padding-top: 18px;
+}
+
+
+.ls{
+    margin-right: 5px;
+}
+
+
+.lss{
+
+margin: 0px 5px;
+color: orangered;
+
+}
+
+
+
+
+
+.lsss{
+    padding: 5px 7px ;
+    background-color: orangered;
+    color: #fff;
+
+}
+
+.jcs{
+    display: flex;
+    margin-left: -12px;
+    margin-right: -12px;
+
+}
+.ggg{
+    border: 1px solid white;
+    background-color: #fff;
+    width: 1200px;
+    text-align: center;
+
+}
+
+.cardss{
+    height: 140px;
+    border: 1px solid rgba(192, 172, 172, 0.438); 
+}
+
+.jcs :hover{
+    border: 2px solid rgba(65, 63, 63, 0.397); 
+}
+
+.z{
+    margin-top: 50px;
+}
+
+
+
+.card-text{
+    color: orangered;
+}
+
+
+
+
+.card-group{
+    margin-bottom: 30px;
+}
+
+
+.l{
+    justify-content: center;
+    display: flex;
+    color: orangered;
+    border: 1px solid orangered;
+    text-align: center;
+    width: 450px;
+
+}
+
+ /* main css end */
+
+
+ /* footer css start */
+
+
+.ft{
+    margin-top: 50px;
+    display: flex;
+}
+
+.ftli{
+list-style: none;
+
+}
+
+
+.ftul{
+
+
+}
+
+.ftt{
+    list-style: none;
+    justify-content: center;
+    
+}
+
+
+.zzz{
+    width: 30pxx;
+}
+
+
+
+
+.span{
+    margin-left: 43px;
+}
+
+
+
+
+
+
+
+
+ /* footer css end */
